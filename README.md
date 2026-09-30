@@ -9,3 +9,7 @@ The game incorporates a timer as well as a scoring system, to encourage the play
 ## 🕹️ Controls
 The player can make the map move using the arrow keys.
 Pressing the space bar allows the player to do a small jump, which actually isn't really helpful apart from when the ball is phasing through the map.  This often happens on the first game, if you don't move before the ball hits the ground. In this case, performing a jump allows for the player to not be stuck anymore.
+
+
+## 🎵 Music credits
+Music used : Star Jazz, by Kevin MacLeod
